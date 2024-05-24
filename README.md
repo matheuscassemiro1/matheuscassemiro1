@@ -1,0 +1,11 @@
+- 👋 Olá, eu sou o Matheus Cassemiro
+- 👀 Desenvolvedor Fullstack
+- 🌱 Tecnologias
+    - JavaScript
+    - TypeScript
+    - Angular
+    - SQL
+    - Express
+    - Swagger/Documentação de API
+    -
+- 🔌 Em busca de aprimorar meus conhecimentos
