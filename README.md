@@ -7,5 +7,4 @@
     - SQL
     - Express
     - Swagger/Documentação de API
-    -
 - 🔌 Em busca de aprimorar meus conhecimentos
